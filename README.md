@@ -53,7 +53,7 @@ for i in range(n):
 
 
 ## Output:
-![gaussian elimination]()
+![gaussian elimination](https://github.com/naramala-niharika/Gaussian/blob/main/Screenshot%20(3).png?raw=true)
 
 
 ## Result:
